@@ -32,4 +32,8 @@ Luego de revisar cada modelo sus métricas y matrices de confusión podemos conc
 
 RECOMENDACIONES
 
-Existe un mayor detalle de lo realizado en el documento PDF que es encuentra en este mismo sitio.
+Existe un mayor detalle de lo realizado en el documento PDF que se encuentra en este mismo sitio.
+
+EXTRA
+
+Se añade el archivo Bonus_carne.ipynb, que contiene el clasificador de tipos de carnes con comentarios dentro del código para su entendimiento.
