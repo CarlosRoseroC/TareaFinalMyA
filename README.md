@@ -16,9 +16,9 @@ Se hace la carga del dataset, se revisan los campos y sus valores.
 - No hay valores nulos.
 - El campo “Diagnosis” solo tiene valor M o B.
 - El resto de los campos tienen valores numéricos de tipo flotante Para el proceso de aprendizaje se separa el dataset en TRAIN y TEST con los parámetros test_size = 0.2 y random_state = 42 Los modelos que se usan para este ejercicio son:
-- Random_Forest.
-- SVM(Support Vector Machines).
-- Regresión Logisitica.
+Random_Forest.
+SVM(Support Vector Machines).
+Regresión Logisitica.
 
 CONCLUSIÓN Luego de revisar cada modelo sus métricas y matrices de confusión podemos concluir que el que tiene una mayor accuracy(97.368 %) y menor cantidad de falsos-negativos tanto en TRAIN(3) como TEST(2) es el modelo RandomForest, y este sería el recomendado para este ejercicio de cáncer de mama.
 
