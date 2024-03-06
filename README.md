@@ -21,6 +21,7 @@ Se hace la carga del dataset, se revisan los campos y sus valores.
 Para el proceso de aprendizaje se separa el dataset en TRAIN y TEST con los parámetros test_size = 0.2 y random_state = 42. Los modelos que se usan para este ejercicio son:
 
 <strong>Random_Forest.
+
 SVM(Support Vector Machines).</strong>
 
 Regresión Logisitica.
