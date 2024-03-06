@@ -1,4 +1,3 @@
-# TareaFinalMyA
 <h1>Tarea Final de Modelos y Aprendizajes</h1>
 <h3>Autor: Carlos Rosero</h3>
 
