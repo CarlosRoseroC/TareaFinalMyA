@@ -22,9 +22,9 @@ Para el proceso de aprendizaje se separa el dataset en TRAIN y TEST con los par�
 
 <strong>Random_Forest.
 
-SVM(Support Vector Machines).</strong>
+SVM(Support Vector Machines).
 
-Regresión Logisitica.
+Regresión Logisitica.</strong>
 
 <h2>CONCLUSIÓN</h2>
 
