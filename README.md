@@ -1,8 +1,8 @@
 # TareaFinalMyA
 <h1>Tarea Final de Modelos y Aprendizajes</h1>
-Autor: Carlos Rosero
+<h3>Autor: Carlos Rosero</h3>
 
-OBJETIVO Y ALCANCE
+<h2>OBJETIVO Y ALCANCE</h2>
 
 Supongamos que usted trabaja en el servicio de salud y recibe muestras que provienen de mujeres con cáncer de mama. Los médicos han extraído características y las han anotado, su trabajo es crear un modelo que sea capaz de identificar si un paciente tiene o no cáncer. El dataset y su descripción aparecen aquí:
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
